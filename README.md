@@ -3,8 +3,8 @@
 Node Farm displays products and their details. This app is server side rendered and was my first project while learning node js from udemy (jonas).
 
 <div style="display:flex;">
-<img src="screenshots/Capture.PNG" alt="Screenshot" width="450" >
-<img src="screenshots/Capture2.PNG" alt="Screenshot" width="450" >
+<img src="screenshots/Capture.PNG" alt="Screenshot" width="400" >
+<img src="screenshots/Capture2.PNG" alt="Screenshot" width="400" >
 </div>
 
 ## Objectives
